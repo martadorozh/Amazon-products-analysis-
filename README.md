@@ -1,5 +1,5 @@
 # Amazon-products-analysis-
-Amazon Best Sellers prediction
+Amazon Best Sellers prediction + Building a Web Scraper 
 
 My analysis based on Amazon products by sorting offers according to two lists. One sorted by the latest added products, and the other sorted by popularity and checking which products from the newest list will jump to the most popular products.
 
