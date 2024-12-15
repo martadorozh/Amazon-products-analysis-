@@ -1,7 +1,9 @@
 # Amazon-products-analysis-
-Amazon Best Sellers prediction & Building a Web Scraper 
+Amazon Best Sellers prediction & Building a Web Scraper   
+
 
 This project focuses on identifying the key parameters that contribute to the popularity of new products. By analyzing recent product data, I aim to uncover patterns and characteristics that distinguish successful products from others. The goal is to develop actionable insights and predictive models that can help forecast which of the latest products are most likely to become popular. This analysis will provide valuable guidance for product development, marketing strategies, and decision-making processes.  
+
 
 
 Project Plan
